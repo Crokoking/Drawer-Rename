@@ -1,0 +1,5 @@
+#PARSE_ESCAPES
+
+storagedrawers.container.unboundSlave=Unbound Auxiliary Controller
+block.storagedrawers.controllerSlave.name=Auxiliary Controller
+storagedrawers.config.blocks.controllerSlave=Auxiliary Controller
